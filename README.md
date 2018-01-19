@@ -1,3 +1,1 @@
 # PaleobiologyData
-# JavaCoursework
-# JavaCoursework
